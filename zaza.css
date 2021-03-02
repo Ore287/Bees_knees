@@ -1,0 +1,77 @@
+body{
+    padding: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cardBody{
+    background-color: #ebeffb;
+    border-radius: 10px;
+    padding-left: 550px;
+    padding-top: 140px;
+    padding-bottom: 70px;
+}
+#mainBody{
+    background-color:#6495ED;
+    width: 420px;
+    border-radius:35px;
+}
+.sheep{
+    height: 400px; 
+    width: 430px;
+    margin-bottom: -30px;
+    margin-top: -20px;
+}
+.dude{
+    border-radius: 35px;
+    background-color: white; 
+    width: 350px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    padding: 35px;
+
+}
+#welcomeBack{
+    color:#405bc2;
+}
+.input{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom-color:#DCDCDC;
+    padding-top: 25px;
+}
+#radio{
+    font-size: 12px;
+}
+#forgotPassword{
+    font-size: 12px;
+    text-decoration-color:#405bc2;
+    padding-left: 122px;
+}
+.signInPar{
+    padding-top: 45px;
+}
+#signIn{
+    font-size: 20px;
+    border: transparent;
+    background-color: transparent;
+    color: #405bc2;
+    padding-right: 150px;   
+    padding-bottom: 20px; 
+}
+#signUp{
+    font-size: 12px;
+    border: none;
+    background-color: transparent;
+    color: #405bc2;
+    padding-right: 290px;
+    padding-bottom: 50px;
+}
+#arrowImage{
+    
+}
+#arrowImage2{
+    height: 45px;
+    width: 45px;
+    padding-left: 55px;
+}
